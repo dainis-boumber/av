@@ -107,3 +107,8 @@ venv.bak/
 *.pt
 *.pth
 *.pkl
+*.zip
+*.gz
+*.tar
+*.7z
+*.xz
